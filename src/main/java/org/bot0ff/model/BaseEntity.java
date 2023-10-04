@@ -7,7 +7,6 @@ import org.springframework.data.annotation.LastModifiedDate;
 
 import java.util.Date;
 
-//Не нужна отдельная таблица классу
 @MappedSuperclass
 @Data
 public class BaseEntity {
